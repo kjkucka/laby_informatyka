@@ -4,7 +4,7 @@ int main() {
 
     int a, b;
 
-    printf("Podaj dwie liczby\n");
+    printf("Podaj dwie liczby całkowite\n");
 
     scanf("%d %d", &a, &b);
 
